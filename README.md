@@ -14,6 +14,7 @@ Write a function that takes a `String` as input and returns the reverse complime
     <summary>Click to see hint</summary>
 
         One way to approach this is to start at the end of the given strand and work your way to the front. As you do that, take each symbol and add the complement of it to the new string. When your loop finishes (reaches the front) your new string should be the reverse complement of the original strand.
+        
 </details>
 
 ### Sample Outputs
